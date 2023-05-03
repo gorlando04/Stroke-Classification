@@ -196,7 +196,13 @@ Dessa forma, conclui-se que a Árvore de Decisão é um modelo melhor para ser u
 
 Augusto Luchesi Matos
 
+
+
 Carlos Eduardo Nascimento dos Santos
+
+
+
+
 
 Gabriel Meirelles Carvalho Orlando
 
